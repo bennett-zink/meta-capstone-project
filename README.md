@@ -7,18 +7,16 @@ Course Link - [Meta front end development professional certificate](https://www.
 ## Screenshot
 
 ### Home Page
-![homepage.png]()
+![](homepage.png)
 
 ### About us
-![about.png]()
-
-
+![](about.png)
 
 ### Booking Page
 
-![reservation-form.png]()
+![](reservation-form.png)
 
-### Tech Used:
+### Languages/Libraries Used:
 
 - Figma
 - HTML
