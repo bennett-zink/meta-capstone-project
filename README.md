@@ -2,7 +2,7 @@
 
 Final capstone project for Meta Front-End developer professional certificate on Coursera.
 
-Course Link - [Meta front end development professional certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
+Course Link - [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 
 ## Screenshot
 
