@@ -7,18 +7,16 @@ Course Link - [Meta front end development professional certificate](https://www.
 ## Screenshot
 
 ### Home Page
-![image]()
+![homepage.png]()
 
 ### About us
-![image]()
+![about.png]()
 
 
 
 ### Booking Page
 
-![image]()
-![image]()
-
+![reservation-form.png]()
 
 ### Tech Used:
 
