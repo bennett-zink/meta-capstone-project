@@ -1,6 +1,6 @@
 # Little Lemon Restaurant
 
-Final capstone project for Meta Front-End developer professional certificate on Coursera.
+Final capstone project for Meta front-end developer course on Coursera.
 
 Course Link - [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 
@@ -16,13 +16,6 @@ Course Link - [Meta Front-End Developer Professional Certificate](https://www.co
 
 ![](reservation-form.png)
 
-### Languages/Libraries Used:
-
-- Figma
-- HTML
-- CSS
-- JSX
-- React
 
 ### Third Party Libraries & APIs:
 
